@@ -1,0 +1,27 @@
+body{
+    background-image: url("welcome.jpg");
+    backdrop-filter: blur(0px);
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-style:oblique;
+}
+
+p{
+    text-align: center;
+    font-size: 45px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+h1{
+    text-align: center; 
+}
+
+body button{
+    height: 40px;
+    color: black;
+    font-size: 15px;
+    font-style:oblique;
+    font-weight: bold;
+}

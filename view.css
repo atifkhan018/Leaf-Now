@@ -1,0 +1,25 @@
+body{
+    background-image: url("view_bck.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    text-align: center;
+    font-size: 45px;
+    color: black;
+    font-style:oblique;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center; 
+}
+
+body button{
+    height: 50px;
+    width: 360px;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
